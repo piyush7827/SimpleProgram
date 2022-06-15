@@ -1,0 +1,35 @@
+*{
+    background-image: repeating-linear-gradient();
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+.login-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%
+    
+
+
+}
+.sign-up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+    width: 100vmax;
+    font-size: xx-large;
+    justify-content: center;
+
+
+
+    
+    
+}
